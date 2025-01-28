@@ -28,16 +28,6 @@ I’m a **Data Processing Specialist** passionate about transforming raw data in
 - Improving data visualization techniques for better storytelling  
 - Diving deeper into real-time data processing with Apache Kafka  
 
----
-
-## 📂 Featured Projects  
-### 📊 **Sales Data Dashboard**  
-An interactive dashboard for visualizing sales trends and forecasting using Tableau and Python.  
-🔗 [GitHub Repo Link]  
-
-### 📈 **Big Data ETL Pipeline**  
-A scalable ETL pipeline for processing millions of records using Apache Spark and Airflow.  
-🔗 [GitHub Repo Link]  
 
 ---
 
